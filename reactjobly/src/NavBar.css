@@ -1,0 +1,18 @@
+.nav {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  height: 50px;
+}
+
+.homebtn{
+  font-size: 40px;
+  text-decoration: none;
+  
+}
+
+.navigationbtns{
+  float: right;
+  list-style: none;
+
+}
